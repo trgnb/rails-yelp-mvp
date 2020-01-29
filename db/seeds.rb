@@ -13,13 +13,13 @@ restaurants_attributes = [
   {
     name:         'Dishoom',
     address:      '7 Boundary St, London E2 7JE',
-    phone:  '6043688435',
+    phone_number:  '6043688435',
     category:        "chinese"
   },
   {
     name:         'Pizza East',
     address:      '56A Shoreditch High St, London E1 6PQ',
-    phone:  '6043688436',
+    phone_number:  '6043688436',
     category:        "italian"
   }
 ]
